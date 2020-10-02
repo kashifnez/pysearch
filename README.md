@@ -19,7 +19,10 @@ More details are avairable from [My Tech Blog(Japanese)](http://nwpct1.hatenablo
 1. Clone repository
 
     ```
-    $ git clone git@github.com:mejiro/SearchEngine.git
+    $ git clone git@github.com:mejiro/SearchEngine.git```
+    or 
+    ```
+    $ https://github.com/c-bata/pysearch
     ```
     
 2. Install python packages
